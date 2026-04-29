@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radhe Bharadwaj</h1>
-<h3 align="center">Founder @ Pixra | 20yo CSE Student | Aspiring Roboticist</h3>
+<h3 align="center">Founder @ Pixra | Visionary Builder | Aspiring Roboticist</h3>
 
 <p align="center">
   <i>"Building today's robust B2B & B2C ecosystems to fund tomorrow's intelligent, climate-resilient humanoids."</i>
@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me & My Vision
-- 🎓 **Who am I:** I'm a 20-year-old CSE Student with a massive vision for the future of technology and AI.
+- 🎓 **Who am I:** A 20-year-old tech enthusiast with a massive vision for the future of AI and robotics.
 - 🚀 **Current Focus:** Building scalable B2B & B2C products and creating complete digital ecosystems at **Pixra**.
 - 🧠 **Learning & Building:** Currently deep-diving into **C++** to architect high-performance systems.
 - 🔍 **Next Big Thing:** Developing a fully advanced, worldwide **Search Engine and Indexing System**.
